@@ -1,0 +1,3 @@
+Right now this idea is the concept of a near-default layout lockscreen that lets us have a small widget/information area.
+
+This idea's original concept is already fulfilled by the android 2.0 window flags that let any window supersede the lockscreen, but we could refine this by letting apps communicate with our lockscreen, using an intent to send message preview into the lockscreen timeline. That would be a really great use of the android OS features.

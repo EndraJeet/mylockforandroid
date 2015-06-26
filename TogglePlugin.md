@@ -1,0 +1,4 @@
+# Overview #
+The addon provides helper app icons for Enable and Disable. These apps can be set with any profile based app. I also coded a simple Locale plugin so you can attach the desired myLock state to any condition. But Locale could also be set to launch the helper app if users already have that plugin. May be able to expand plug in to interact with the timeout mode, quite easily.
+
+We decided to make this a donate addon. I don't like the idea of separate versions with largely overlapping functionality. Users can buy the addon to support the project without any hassle. It also upgrades their functionality.
